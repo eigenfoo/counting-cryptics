@@ -1,6 +1,7 @@
-There are 9 interesting 5x5 grids
+There are 9 interesting 5x5 grids.
 - Assuming minimum word length of 3.
 - And that words must be half-checked, rounded up.
+- And where 'interesting' means each row must have at least 2 white squares.
 
 ⬛⬛⬜⬜⬜
 ⬜⬛⬜⬛⬜

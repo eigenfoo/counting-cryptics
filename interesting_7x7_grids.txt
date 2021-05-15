@@ -1,6 +1,7 @@
-There are 43 interesting 7x7 grids
+There are 43 interesting 7x7 grids.
 - Assuming minimum word length of 3.
 - And that words must be half-checked, rounded up.
+- And where 'interesting' means each row must have at least 3 white squares.
 
 ⬛⬛⬛⬜⬜⬜⬜
 ⬜⬛⬜⬛⬜⬛⬜
