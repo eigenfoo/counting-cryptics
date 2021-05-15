@@ -1,1 +1,1 @@
-# counting-cryptics
+# Counting Cryptic Crosswords
