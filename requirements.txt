@@ -1,5 +1,3 @@
-joblib
 jupyter
-nb_black
 numpy
 tqdm
